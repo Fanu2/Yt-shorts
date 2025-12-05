@@ -1,6 +1,3 @@
-Here is a clean, professional **README.md** for your project, formatted for GitHub or GitLab.
-
----
 
 # 📺 Portrait → Landscape Converter PRO (CPU-Only)
 
